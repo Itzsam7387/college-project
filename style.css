@@ -1,0 +1,196 @@
+.Nav-bar {
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px;
+    font-family: sans-serif;
+    width: 100%;
+
+}
+
+.Nav-bar li a {
+    color: darkgreen;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+.Searchbar {
+    margin-left: 500px;
+    border-radius: 10px;
+    border: 3px solid green;
+}
+
+.bbox {
+    margin-left: 10px;
+}
+
+.ctext {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.txt1 {
+    color: red;
+    margin-top: 100px;
+    font-size: 60px;
+    margin-left: -60px;
+
+}
+
+.txt2 {
+    color: rgb(255, 0, 0);
+    margin-left: 300px;
+    font-size: 90px;
+    margin-top: 30px;
+}
+
+.stext2 {
+    color: green;
+}
+
+.txt3 {
+    color: green;
+    margin-left: -40px;
+    font-size: 60px;
+    margin-top: 30px;
+}
+
+.stext3 {
+    color: red;
+}
+
+.cflex {
+    display: flex;
+}
+
+.detailsh {
+    margin-top: 30px;
+    font-size: 120px;
+    margin-left: 500px;
+}
+
+.cproduct1 {
+    margin-top: 90px;
+}
+
+.rproduct3 {
+    margin-top: 50px;
+}
+
+.span1 {
+    color: red;
+}
+
+.ptxt {
+    font-size: 45px;
+}
+
+.catext {
+    font-size: 45px;
+    align-items: center;
+}
+
+.icon {
+    margin-left: 130px;
+    border-radius: 1px;
+    opacity: 34;
+    display: block;
+    /* color: black; */
+}
+
+
+
+.container-fluid {
+    border-bottom: 1px solid black;
+}
+
+.txth {
+    margin-left: 600px;
+    font-size: 60px;
+    color: green;
+}
+.card-1{
+    margin-left: 20px;
+    box-shadow: 0 6px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.card-1:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.col-3 .chead1{
+    margin-left: 110px;
+  
+}
+.col-3 .chead2{
+    margin-left: 140px;
+}
+.col-3 .chead3{
+    margin-left: 130px;
+}
+.col-3 .chead4{
+    margin-left: 140px;
+}
+
+.card-c{
+    margin-left: 20px;
+    box-shadow: 0 6px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.cvegtabel{
+    color:green;
+    text-align: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+.card-s{
+    margin-left: 20px;
+    box-shadow: 0 6px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.grmtxt{
+    /* margin-left: 100px; */
+  border-bottom: 1px solid black;
+}
+.rstxt{
+    
+}
+.btns{
+    margin-left: 190px;
+}
+.btna{
+    margin-left: 10px;
+}
+.card-c .grmtxt{
+    margin-bottom: -10px;
+    padding: 10px;
+  
+}
+.card-c{
+    margin: 15px;
+}
+
+
+
+.card-d{
+    margin-left: 20px;
+    box-shadow: 0px 6px 8px 0 rgba(19, 19, 19, 0.2);
+    transition: 0.3s;
+    margin: 20px;
+}
+.grfmtxt{
+    border-bottom: 1px solid black;
+   
+}
+span{
+    color:red;
+}
+
+.btnm{
+    margin-left: 300px;
+}
+.card-d:hover{
+    cursor: pointer;
+    color: red;
+}
